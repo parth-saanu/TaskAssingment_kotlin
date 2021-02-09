@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Sample App</string>
+    <string name="rating_filter">Rating Filter</string>
+    <string name="high_to_low">High to Low</string>
+    <string name="low_to_higt">Low to High</string>
+    <string name="apply">Apply</string>
+</resources>
